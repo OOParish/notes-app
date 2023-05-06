@@ -1,2 +1,2 @@
-# notes-app
+# Notes App
 Test task
